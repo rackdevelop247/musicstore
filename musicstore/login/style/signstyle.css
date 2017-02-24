@@ -1,0 +1,42 @@
+#content
+{
+	color:black;
+	background-color: white;
+	padding:20px;
+	
+}
+
+#page #content  a
+{		
+		color: black;
+		text-transform:uppercase;
+		text-decoration:none;
+		cursor:pointer;
+		font-family:Courier New;
+		font-size:20px;
+		margin-left:350px;
+		
+}
+
+#page #content  a:hover
+{		
+		color:blue;
+}
+
+.name1
+{
+font-weight:bold;
+font-style: italic;
+font-family: "Courier New", Courier, monospace;
+font-size:24px;
+text-shadow: 1px 1px 3px black;
+
+}
+.hi
+{
+font-weight:bold;
+font-size:15px;
+font-family: "Courier New", Courier, monospace;
+margin-left:100px;
+}
+
